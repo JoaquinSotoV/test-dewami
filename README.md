@@ -12,7 +12,7 @@ Para comenzar, sigue estos pasos:
 
 1. Navega hasta el directorio del proyecto:
 ```
-cd test-software-engineer
+cd test-dewami
 ```
 
 2. Instala las dependencias del proyecto ejecutando el siguiente comando:
