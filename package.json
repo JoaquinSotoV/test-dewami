@@ -1,0 +1,15 @@
+{
+  "name": "test-software-engineer",
+  "version": "1.0.0",
+  "description": "Prueba técnica para el cargo de ingeniero de software en Dewami",
+  "main": "joaquin-soto.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.10"
+  }
+}
