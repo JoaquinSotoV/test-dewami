@@ -1,4 +1,4 @@
-import { minValue, getMatrixFromImage } from './joaquin-soto.js'
+import { minValue, getMatrixFromImage } from './soto-joaquin.js'
 
 const minValueTestData = [
   [0, 3, 1, 4],
